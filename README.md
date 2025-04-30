@@ -39,9 +39,6 @@ TG_MCP/
 ├── tg_tools.py          # `@mcp.tool` definitions exposing client methods
 ├── tg_resources.py      # `@mcp.resource` URI handlers
 ├── main.py              # MCP app bootstrap (`mcp.run()`)
-├── images/              # Example screenshots for README
-│   ├── show_query.png
-│   └── list_queries.png
 ├── pyproject.toml       # Project metadata & dependencies
 ├── LICENSE              # MIT License
 └── .gitignore           # OS/Python ignore rules
@@ -79,8 +76,6 @@ export TG_SECRET=<your-api-secret>
 
 These are read by `config.py`.
 
-
-  ![List installed queries](images/list_queries.png)
 
 ## Connecting to Claude
 
