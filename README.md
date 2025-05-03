@@ -1,4 +1,6 @@
 # TG_MCP
+![Integration](https://github.com/user-attachments/assets/3ccac6a0-6a82-4982-977e-6b12ce1aa12b)
+
 
 A lightweight Python interface that exposes TigerGraph operations (queries, schema, vertices, edges, UDFs) as structured tools and URI-based resources for MCP agents.
 
