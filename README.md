@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/muzain187-tg-mcp-badge.png)](https://mseep.ai/app/muzain187-tg-mcp)
+
 # TG_MCP
 ![Integration](https://github.com/user-attachments/assets/cea6c4a3-1293-4bac-8c20-d1ecd7f0e866)
 
